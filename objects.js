@@ -1,12 +1,12 @@
 var playlist =
   {
     artist:"Madonna",
-    songTitles:"like a virgin",
+    songTitle:"like a virgin",
   }
 
 
 function updatePlaylist(playlist, artistName, songTitle){
-   playlist["Rolling Stones"] = "Rock n Roll";
+   var playlist = new Obeject ({ artist: "Rolling Stones", songTitle: "Rock n Roll"});
 
    return playlist
 }
