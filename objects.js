@@ -6,7 +6,7 @@ var playlist =
 
 
 function updatePlaylist(playlist, artistName, songTitle){
-   var playlist = new Obeject ({ artist: "Rolling Stones"});
+    playlist(["Rolling Stones"] = "New York")
 
    return playlist
 }
