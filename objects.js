@@ -1,6 +1,6 @@
 var playlist =
   {
-    artist:"Madonna",
+    artistName:"Madonna",
     songTitle:"like a virgin",
   }
 
