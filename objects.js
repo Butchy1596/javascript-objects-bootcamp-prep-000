@@ -6,7 +6,7 @@ var playlist =
 
 
 function updatePlaylist(playlist, artistName, songTitle){
-   var playlist = new Obeject ({ artist: "Rolling Stones", songTitle: "Rock n Roll"});
+   var playlist = new Obeject ({ artist: "Rolling Stones"});
 
    return playlist
 }
